@@ -36,3 +36,4 @@ C:\Users\aars\Documents\Curso C#\Sales Web MVC\SalesWebMvc\SalesWebMvc\obj\Debug
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.pdb
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs

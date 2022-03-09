@@ -18,6 +18,15 @@ namespace SalesWebMvc.Controllers
             _logger = logger;
         }
 
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Sales Web Mvc app from C# course.";
+            ViewData["Email"] = "ariel@gmail.com";
+
+
+            return View();
+        }
+
         public IActionResult Index()
         {
             return View();
