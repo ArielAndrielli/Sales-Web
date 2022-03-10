@@ -1,0 +1,38 @@
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\Sale Web Mvc.exe
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\Sale Web Mvc.deps.json
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\Sale Web Mvc.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\Sale Web Mvc.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\Sale Web Mvc.dll
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\Sale Web Mvc.pdb
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\Sale Web Mvc.Views.dll
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\Sale Web Mvc.Views.pdb
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.RazorAssemblyInfo.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.RazorAssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\staticwebassets\Sale Web Mvc.StaticWebAssets.Manifest.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\staticwebassets\Sale Web Mvc.StaticWebAssets.xml
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sale Web Mvc.styles.css
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.TagHelpers.input.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.TagHelpers.output.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.RazorCoreGenerate.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.RazorTargetAssemblyInfo.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.RazorTargetAssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.Views.pdb
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.dll
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.pdb
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.genruntimeconfig.cache
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.csproj.CopyComplete
