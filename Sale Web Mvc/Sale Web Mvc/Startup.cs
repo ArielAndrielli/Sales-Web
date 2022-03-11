@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
@@ -8,6 +8,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Sale_Web_Mvc.Data;
 
 namespace Sale_Web_Mvc
 {
@@ -24,6 +26,10 @@ namespace Sale_Web_Mvc
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<Sale_Web_MvcContext>(options =>
+            options.UseMySql(Configuration.GetConnectionString("Sale_Web_MvcContext"), builder =>
+            builder.MigrationsAssembly("Sale Web Mvc")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
