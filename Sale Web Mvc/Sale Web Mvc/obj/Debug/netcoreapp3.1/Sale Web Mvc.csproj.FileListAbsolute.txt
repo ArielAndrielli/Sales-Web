@@ -17,8 +17,6 @@ C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Deb
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.RazorAssemblyInfo.cache
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.RazorAssemblyInfo.cs
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\staticwebassets\Sale Web Mvc.StaticWebAssets.Manifest.cache
-C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\staticwebassets\Sale Web Mvc.StaticWebAssets.xml
-C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sale Web Mvc.styles.css
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.TagHelpers.input.cache
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.TagHelpers.output.cache
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Sale Web Mvc.RazorCoreGenerate.cache
