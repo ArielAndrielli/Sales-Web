@@ -154,3 +154,4 @@ C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Deb
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
