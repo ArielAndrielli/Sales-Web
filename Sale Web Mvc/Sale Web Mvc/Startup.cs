@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Sale_Web_Mvc.Data;
+using Sale_Web_Mvc.Services;
 
 namespace Sale_Web_Mvc
 {
@@ -26,7 +27,9 @@ namespace Sale_Web_Mvc
             options.UseMySql(Configuration.GetConnectionString("Sale_Web_MvcContext"), builder =>
             builder.MigrationsAssembly("Sale Web Mvc")));
 
+            // Doing this will alow your service to be injectable in other classes
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

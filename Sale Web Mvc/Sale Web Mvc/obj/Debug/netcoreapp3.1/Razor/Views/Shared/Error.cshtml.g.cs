@@ -12,10 +12,9 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
-    using Sale_Web_Mvc.Models.ViewModels;
 #nullable restore
 #line 1 "C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\Views\_ViewImports.cshtml"
-    using Sale_Web_Mvc;
+using Sale_Web_Mvc;
 
 #line default
 #line hidden
