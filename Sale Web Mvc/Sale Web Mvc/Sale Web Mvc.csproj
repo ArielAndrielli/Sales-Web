@@ -6,9 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="Views\Shared\chic.jpeg" />
-    <Content Include="Views\Shared\la.jpg" />
-    <Content Include="Views\Shared\nyc.jpg" />
+    <None Include="wwwroot\css\chic.jpeg" />
+    <None Include="wwwroot\css\la.jpg" />
+    <None Include="wwwroot\css\nyc.jpg" />
   </ItemGroup>
 
   <ItemGroup>

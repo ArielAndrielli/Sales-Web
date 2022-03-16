@@ -11,6 +11,7 @@ namespace Sale_Web_Mvc.Models
         public string Email { get; set; }
         public DateTime BirthDate { get; set; }
         public double BaseSalary { get; set; }
+        public int DepartmentId { get; set; }
         public Department Department { get; set; } //Department-Seller Association (According to the UML diagram)
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>(); //Seller-Sales Association (According to the UML diagram)
 
