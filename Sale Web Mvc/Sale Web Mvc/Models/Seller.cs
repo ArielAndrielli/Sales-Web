@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 
 namespace Sale_Web_Mvc.Models
@@ -7,12 +8,34 @@ namespace Sale_Web_Mvc.Models
     public class Seller
     {
         public int Id { get; set; }
+
+        [Required(ErrorMessage = "The {0} field is obligatory")]
+        [StringLength(60, MinimumLength = 3, ErrorMessage = "{0} size must be between {2} and {1} characters")]
         public string Name { get; set; }
+
+        [Required(ErrorMessage = "The {0} field is obligatory")]
+        [DataType(DataType.EmailAddress)]
+        [EmailAddress(ErrorMessage = "Enter a valid email")]
         public string Email { get; set; }
+
+        [Required(ErrorMessage = "The {0} field is obligatory")]
+        [Display(Name = "Birth Date")]
+        [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
         public DateTime BirthDate { get; set; }
+
+        [Required(ErrorMessage = "The {0} field is obligatory")]
+        [Range(100.0, 50000.0, ErrorMessage = "{0} must be from {1} to {2}")]
+        [Display(Name = "Base Salary")]
+        [DataType(DataType.Currency)]
+        [DisplayFormat(DataFormatString = "{0:F2}")]
         public double BaseSalary { get; set; }
+        
+
         public int DepartmentId { get; set; }
+        
         public Department Department { get; set; } //Department-Seller Association (According to the UML diagram)
+        
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>(); //Seller-Sales Association (According to the UML diagram)
 
         public Seller()
