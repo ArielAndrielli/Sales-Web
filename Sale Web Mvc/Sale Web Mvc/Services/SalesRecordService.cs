@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Sale_Web_Mvc.Data;
-using Sale_Web_Mvc.Models;
+using Microsoft.EntityFrameworkCore.Internal;
 
 namespace SalesWebMvc.Services
 {
@@ -47,12 +47,15 @@ namespace SalesWebMvc.Services
             {
                 result = result.Where(x => x.Date <= maxDate.Value);
             }
-            return await result
+
+
+            var teste = await result
                 .Include(x => x.Seller)
                 .Include(x => x.Seller.Department)
                 .OrderByDescending(x => x.Date)
-                .GroupBy(x => x.Seller.Department)
+//                .GroupBy(x => x.Seller.Department)
                 .ToListAsync();
+
         }
     }
 }
