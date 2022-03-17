@@ -159,3 +159,6 @@ C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Deb
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+C:\Users\aars\Documents\Curso C#\Sales Web MVC\Sale Web Mvc\Sale Web Mvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs

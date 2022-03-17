@@ -9,6 +9,7 @@ using Sale_Web_Mvc.Services;
 using System.Globalization;
 using Microsoft.AspNetCore.Localization;
 using System.Collections.Generic;
+using SalesWebMvc.Services;
 
 namespace Sale_Web_Mvc
 {
@@ -34,6 +35,7 @@ namespace Sale_Web_Mvc
             services.AddScoped<SeedingService>();
             services.AddScoped<SellerService>();
             services.AddScoped<DepartmentService>();
+            services.AddScoped<SalesRecordService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
