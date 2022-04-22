@@ -56,6 +56,12 @@ namespace SalesWebMvc.Services
 //                .GroupBy(x => x.Seller.Department)
                 .ToListAsync();
 
+            return await result
+                .Include(x => x.Seller)
+                .Include(x => x.Seller.Department)
+                .OrderByDescending(x => x.Date)
+                .GroupBy(x => x.Seller.Department)
+                .ToListAsync();
         }
     }
 }
